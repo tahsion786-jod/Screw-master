@@ -1,0 +1,13 @@
+{
+  "coinsPerWin": 2,
+  "adReward": 5,
+  "slotCost": 30,
+  "interEvery": 4,
+  "maxColors": 7,
+  "tagline": "Unscrew · Match · Master 300 levels",
+  "tracks": [
+    {"n": "Neon Skies", "s": 0},
+    {"n": "Pixel Rush", "s": 1},
+    {"n": "Midnight Run", "s": 2}
+  ]
+}
